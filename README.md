@@ -1,6 +1,6 @@
 # Proyecto Front Selenium
 
-Este proyecto tiene como objetivo automatizar pruebas de aplicaciones web utilizando Selenium, JUnit y otros frameworks. Es una aplicación basada en Java que emplea Maven para gestionar dependencias y configurar el entorno de pruebas.
+Este proyecto tiene como objetivo automatizar pruebas de aplicaciones web utilizando Selenium, JUnit y otros frameworks. Java se emplea para la automatización de pruebas, y Maven se utiliza para gestionar dependencias y configurar el entorno de pruebas.
 
 ## Descripción
 
